@@ -24,4 +24,4 @@ we project the wind data and the moisture data on top of the elevation and veget
 pixel | veg_class	| elevation | wind_u	| wind_v | moisture
 ----|---|---|---|---|---------
 0 |	2 |	379 |	-0.13 |	1.56 |	0.873476
-1	| 2 |	386 |	-0.13 |	1.56 |	0.873476
+219599 | 2|	259|	0.25|	1.22|	0.819649
