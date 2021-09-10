@@ -1,7 +1,7 @@
 # satellite-imagery-wildfire-simulation
 In order to simulate wild fire on satlite imagery we need 4 core features : type of ground (vegetation, water, dirt), wind speed and direction, elevation (slope) and moisture.
 
-our goal is to run the simulation in each coordinate on land and estimate the potential damage, this could help in optimizing risk management in case of wild-fires.
+our goal is to run the simulation in each coordinate on land and estimate the potential damage, this could help in optimizing fire control and resource management in case of wild-fires.
 
 * extracting data from satelite imagery notebook [colab](https://colab.research.google.com/drive/1xwIUGick9HLaP-HN5vj4ibcZZvoyCalv?usp=sharing)
 
