@@ -18,7 +18,7 @@ extract information about the elevation (m) of each point of land
 <img src="https://user-images.githubusercontent.com/84399880/132777202-25540eae-44ae-4cca-8888-dbba65549980.png" alt="drawing" style="width:500px;"/>
 
 
-#wind and moisture data
+## wind and moisture data
 we project the wind data and the moisture data on top of the elevation and vegetation grid and wrap all these features in a pd dataframe, example :
 
 pixel | veg_class	| elevation | wind_u	| wind_v | moisture
