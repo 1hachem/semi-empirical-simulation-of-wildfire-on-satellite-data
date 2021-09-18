@@ -13,8 +13,8 @@ We aim to locate critical zones and to estimate fire spread so that needed preca
 ## Impact
 Our solution can be helpful in many aspects of fire management in which the main impact is :
 
-risk factor calculation and this would help firefighters to focus on areas with higher risk and develop better infrastructure.
+* risk factor calculation and this would help firefighters to focus on areas with higher risk and develop better infrastructure.
 
-for planning firefighting strategies and this would help fire crews position equipment on the ground so that they can minimize damage and stay safe.
+* for planning firefighting strategies and this would help fire crews position equipment on the ground so that they can minimize damage and stay safe.
 
-for fire fighter training purposes and developing a scenario for training.
+* for fire fighter training purposes and developing a scenario for training.
