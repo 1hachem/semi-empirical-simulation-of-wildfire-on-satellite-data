@@ -40,14 +40,12 @@ class cell:
         self.veg_hight = 0
         self.state = state[land_type]
         self.prev_state = self.state
-        self.rate = 0
+
 
     def set_state(self, new_state):
         self.prev_state = self.state
         self.state = new_state
 
-    def set_rate(self, new_rate):
-        self.rate = new_rate
 
     def update_cell(self):
         if self.state == 2 and self.prev_state == 2:
