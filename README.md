@@ -10,6 +10,8 @@
 
 * The simulation will start (PS: You won't notice it if you choose an ignition point that is unburnable).
 
+![alt text](https://github.com/0Hashim/semi-empirical-simulation-of-wildfire-on-satellite-data/blob/main/Images/img_sim_readme.PNG?raw=true)
+
 ## Abstract 
 The knowledge of a free-burning fire’s potential rate of spread is critical for safe and effective bushfire control.
 
