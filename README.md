@@ -1,4 +1,15 @@
 # Applying semi-empirical simulation of wildfire on real world satellite imagery data
+## HOW TO USE THE SIMULATION
+* Create a fresh Unity project and paste the contents of the "Unity Simulation" folder (the "Assets" folder) into the freshly created Unity project.
+
+* Open the Unity project, run it using the run button at the top of the window.
+
+* Go to scene view for better control.
+
+* Choose an ignition point (must be within actual map bounds, i.e 483x483).
+
+* The simulation will start (PS: You won't notice it if you choose an ignition point that is unburnable).
+
 ## Abstract 
 The knowledge of a free-burning fire’s potential rate of spread is critical for safe and effective bushfire control.
 
@@ -11,8 +22,8 @@ We aim to locate critical zones and to estimate fire spread so that needed preca
 ## Impact
 Our solution can be helpful in many aspects of fire management in which the main impact is :
 
-* risk factor calculation and this would help firefighters to focus on areas with higher risk and develop better infrastructure.
+* Risk factor calculation and this would help firefighters to focus on areas with higher risk and develop better infrastructure.
 
-* for planning firefighting strategies and this would help fire crews position equipment on the ground so that they can minimize damage and stay safe.
+* For planning firefighting strategies and this would help fire crews position equipment on the ground so that they can minimize damage and stay safe.
 
-* for fire fighter training purposes and developing a scenario for training.
+* For fire fighter training purposes and developing a scenario for training.
